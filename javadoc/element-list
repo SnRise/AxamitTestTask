@@ -1,0 +1,7 @@
+ru.axamit.statistic
+ru.axamit.statistic.controller
+ru.axamit.statistic.domain
+ru.axamit.statistic.exceptions
+ru.axamit.statistic.repository
+ru.axamit.statistic.service
+ru.axamit.statistic.util

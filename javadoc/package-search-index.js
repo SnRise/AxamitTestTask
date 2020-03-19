@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ru.axamit.statistic"},{"l":"ru.axamit.statistic.controller"},{"l":"ru.axamit.statistic.domain"},{"l":"ru.axamit.statistic.exceptions"},{"l":"ru.axamit.statistic.repository"},{"l":"ru.axamit.statistic.service"},{"l":"ru.axamit.statistic.util"}]
